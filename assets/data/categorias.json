@@ -1,0 +1,22 @@
+[
+    {
+      "nombre": "Comida",
+      "colorValue": 4294921667
+    },
+    {
+      "nombre": "Transporte",
+      "colorValue": 4281970437
+    },
+    {
+      "nombre": "Trabajo",
+      "colorValue": 4288423850
+    },
+    {
+      "nombre": "Agua",
+      "colorValue": 4281545510
+    },
+    {
+      "nombre": "Entretenimiento",
+      "colorValue": 4289683020
+    }
+  ]
