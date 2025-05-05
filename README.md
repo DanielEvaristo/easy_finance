@@ -116,3 +116,7 @@ easy_finance/
 
 ¡Listo! Ya tienes todo para empezar a usar y contribuir en **Easy Finance**.
 
+## 👥 Contribuidores
+
+- @Daniel Evaristo Camargo
+- @Marcos Iván Ronces Noblecia
